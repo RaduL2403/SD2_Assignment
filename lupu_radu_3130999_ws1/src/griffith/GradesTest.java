@@ -8,23 +8,8 @@ public class GradesTest {
 
     
     @Test
-    public void testGradesMax() {
+    public void test(){
         
-    }
-
-    @Test
-    public void testGradesTotal() {
-        
-    }
-
-    @Test
-    public void testGradesAverage() {
-        
-    }
-
-    @Test
-    public void testCountFails() {
-
     }
 }
 
